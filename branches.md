@@ -1,0 +1,2 @@
+Branches in Git allow you to work on and modify different parts of your project without changing the main part of it.  Basically like the branches of a tree,
+your main project could be considered the trunk and your modifications are the branches. At least until you commit your changes.
